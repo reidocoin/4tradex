@@ -1,2 +1,5 @@
 # 4tradex
-4tradex public repository
+
+## ATENÇÂO: ao postar um novo [BUG] ou [FEATURE] siga o modelo, caso contrário sua solicitação será ignorada.
+
+
