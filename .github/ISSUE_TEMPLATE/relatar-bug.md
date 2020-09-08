@@ -25,14 +25,14 @@ Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Desktop (por favor, complete a seguinte informação):**
  - OS: [ex. iOS]
- - Browser [ex. chrome, safari]
- - Versão [ex. 22]
+ - Browser: [ex. chrome, safari]
+ - Versão: [ex. 22]
 
 **Smartphone (por favor, complete a seguinte informação):**
  - Dispositivo: [ex. iPhone6]
  - OS: [ex. iOS8.1]
- - Browser [ex. stock browser, safari]
- - Versão [ex. 22]
+ - Browser: [ex. stock browser, safari]
+ - Versão: [ex. 22]
 
 **Contexto adicional**
 Adicione qualquer outro contexto ou observação sobre o problema aqui.
